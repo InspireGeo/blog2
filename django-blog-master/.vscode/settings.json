@@ -5,6 +5,7 @@
          "": "html"
     },
     "totvsLanguageServer.welcomePage": false,
+    "python.pythonPath": "/usr/bin/python3",
 }
     
 
